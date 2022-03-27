@@ -1,6 +1,3 @@
-# INTRO TO IT: MY PROFILE
-
-
 ## ABOUT ME
 NAME: Tommy Luong
 
